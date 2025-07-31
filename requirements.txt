@@ -29,4 +29,5 @@ pynvml
 faiss-cpu
 einops
 local_attention
+matplotlib==3.7.0
 matplotlib-inline
